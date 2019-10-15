@@ -1,0 +1,9 @@
+{
+  "name": "react-create",
+  "version": "1.0.0",
+  "description": "create react module",
+  "main": "index.js",
+  "repository": "https://github.com/iceq666/react-create.git",
+  "author": "ice",
+  "license": "MIT"
+}
